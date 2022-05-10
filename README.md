@@ -1,11 +1,8 @@
 # Encryption-Decryption-Software
-Assalamu Alaikum. My second computer application now is here. 
-With this software,  it is possible to recover all types of chrome browser save passwords. 
-There are many other types of software that  are not available for free, but you can easily recover your password with this software without pay any money.  
-This software is very easy to use and if you want, you can save all the passwords through the excel file. 
-✅ Recover passwords from Chrome browser
-✅ Recover website, email, social network passwords 
-✅ Recover passwords of any length 
-✅ Automation of password recovery 
-✅ Save password to CSV file 
-✅ Supports All Windows PC ( XP to Windows 10 )
+Assalamu Alaikum.My first computer application now is here. 
+With which Basic Encryption and Decryption can be done. Many people use Hash Code to encrypt and decrypt.
+ But this application of ours is entirely made by us ourselves. Which is not covered by any Hash Code. 
+This will change the formation of any word about 60 times each time. 
+So it takes a lot of time to break this code formation. Moreover, several types of layers have been used in the key that will be given during encryption. 
+So that even if someone gets the code and key, he can't decrypt it. Encryption code created through this software can be decryption only with this software. 
+No one else can decrypt.
